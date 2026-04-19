@@ -1,10 +1,10 @@
 # Health-Insurance-prediction- Using Machine Learning 
 
 🏥 **Health Insurance Cost Prediction using Machine Learning**
-📌** Project Overview**
+**📌 Project Overview**
 This project aims to predict health insurance charges based on user data such as age, BMI, smoking habits, and region using Machine Learning techniques. It helps users estimate insurance costs and supports better financial planning.
 
-🚀 Features
+**🚀 Features**
 📊 Data preprocessing and cleaning
 📈 Exploratory Data Analysis (EDA)
 🤖 Machine Learning models (Linear Regression, Random Forest, etc.)
@@ -34,7 +34,7 @@ Region
 Insurance Charges (Target Variable)
 
 **⚙️ Installation & Setup**
-# Clone the repositorygit clone https://github.com/your-username/your-repo-name.git# Navigate to project foldercd your-repo-name# Install dependenciespip install -r requirements.txt# Run the projectpython app.py
+# Clone the repositorygit clone https://github.com/SatyamArya0076/Health Insurance predcition .git# Navigate to project foldercd Health-Insurance-prediction-# Install dependenciespip install -r requirements.txt# Run the projectpython app.py
 
 **📊 Machine Learning Models Used**
 Linear Regression
@@ -51,8 +51,8 @@ Mean Squared Error (MSE)
 **🖥️ Project Structure
 ├── data/├── notebooks/├── models/├── app.py├── requirements.txt└── README.md**
 
-**💡 Future Improvements
-**
+**💡 Future Improvements**
+
 Add deep learning models (LSTM, ANN)
 Deploy on cloud (AWS / Heroku)
 Improve UI/UX of frontend
@@ -66,7 +66,8 @@ This project is licensed under the MIT License.
 
 **👨‍💻 Author**
 Satyam Arya
-📌 Passionate about Machine Learning & Development
+
+**📌 Passionate about Machine Learning & Development**
 If you want, I can also:
 Customize this README exactly based on your notebook file
 Add badges (stars, forks, accuracy, etc.)
