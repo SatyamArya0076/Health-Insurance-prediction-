@@ -32,28 +32,26 @@ Framework (Optional): Flask / Streamlit
 The dataset contains the following features:
 
 Age
-
 Gender
-
 BMI (Body Mass Index)
-
 Number of Children
-
 Smoking Status
-
 Region
-
 Insurance Charges (Target Variable)
 
 **⚙️ Installation & Setup**
+
+
 # Clone the repositorygit clone https://github.com/SatyamArya0076/Health Insurance predcition .git# Navigate to project foldercd Health-Insurance-prediction-# Install dependenciespip install -r requirements.txt# Run the projectpython app.py
 
 **📊 Machine Learning Models Used**
+
 Linear Regression
 Decision Tree Regressor
 Random Forest Regressor
 
 **📈 Results**
+
 Achieved good accuracy using Random Forest
 Model performance evaluated using:
 R² Score
@@ -71,15 +69,18 @@ Improve UI/UX of frontend
 Add real-time API integration
 
 **🤝 Contributing**
+
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
 
 **📜 License**
+
 This project is licensed under the MIT License.
 
 **👨‍💻 Author**
 Satyam Arya
 
 **📌 Passionate about Machine Learning & Development**
+
 If you want, I can also:
 Customize this README exactly based on your notebook file
 Add badges (stars, forks, accuracy, etc.)
