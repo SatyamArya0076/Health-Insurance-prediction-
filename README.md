@@ -2,14 +2,21 @@
 
 🏥 **Health Insurance Cost Prediction using Machine Learning**
 **📌 Project Overview**
+
+
 This project aims to predict health insurance charges based on user data such as age, BMI, smoking habits, and region using Machine Learning techniques. It helps users estimate insurance costs and supports better financial planning.
 
 **🚀 Features**
 📊 Data preprocessing and cleaning
+
 📈 Exploratory Data Analysis (EDA)
+
 🤖 Machine Learning models (Linear Regression, Random Forest, etc.)
+
 🎯 Accurate prediction of insurance charges
+
 🌐 (Optional) Web app using Flask / Streamlit
+
 📁 Clean and structured project workflow
 
 🛠️ **Tech Stack**
@@ -17,20 +24,32 @@ Language: Python 🐍
 
 
 **Libraries**
+
 Pandas
+
 NumPy
+
 Matplotlib / Seaborn
+
 Scikit-learn
+
 Framework (Optional): Flask / Streamlit
 
 **📂 Dataset**
 The dataset contains the following features:
+
 Age
+
 Gender
+
 BMI (Body Mass Index)
+
 Number of Children
+
 Smoking Status
+
 Region
+
 Insurance Charges (Target Variable)
 
 **⚙️ Installation & Setup**
